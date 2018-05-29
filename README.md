@@ -20,7 +20,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ## Serving
 
-```
-just serve the directory like localhost:8000
+``` bash
+# just serve the directory like localhost:8000
 php commandline Serving: php -S localhost:8000 -t directory_to_be_served/
 ```
