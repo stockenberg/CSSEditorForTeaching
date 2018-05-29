@@ -1,6 +1,6 @@
-# test
+# CSSEditorForTeaching
 
-> A Vue.js project
+> To show students the Impact of CSS Manipulation to HTML Elements
 
 ## Build Setup
 
