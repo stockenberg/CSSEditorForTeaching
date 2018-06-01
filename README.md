@@ -1,6 +1,6 @@
 # CSSEditorForTeaching
 
-> To show students the Impact of CSS Manipulation to HTML Elements
+> To show students the impact of CSS Manipulation to HTML Elements
 
 ## Build Setup
 
